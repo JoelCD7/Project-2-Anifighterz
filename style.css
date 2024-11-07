@@ -2,6 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   color: black; /* Makes the text white */
+  background-color: black;
 }
 
 /* Apply the background image to this div */
